@@ -97,6 +97,14 @@
     -webkit-transition: opacity .3s ease, visibility .3s ease;
             transition: opacity .3s ease, visibility .3s ease;
 }
+.downloadHv{
+    text-decoration: none; 
+    background-color: transparent; 
+    color:white
+}
+.downloadHv:hover{
+    color:white
+}
 
 .main-menu .menu-link:hover,
 .main-menu .active .menu-link {
